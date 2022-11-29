@@ -19,7 +19,7 @@ const musicData = [
 	{
 	  backgroundImage: "./assets/images/poster-2.jpg",
 	  posterUrl: "./assets/images/poster-2.jpg",
-	  title: "How do you do",
+	  title: "Bones",
 	  album: "None",
 	  year: 2022,
 	  artist: "None",
@@ -28,7 +28,7 @@ const musicData = [
 	{
 	  backgroundImage: "./assets/images/poster-3.jpg",
 	  posterUrl: "./assets/images/poster-3.jpg",
-	  title: "How do you do",
+	  title: "Mine",
 	  album: "None",
 	  year: 2022,
 	  artist: "None",
@@ -37,7 +37,7 @@ const musicData = [
 	{
 	  backgroundImage: "./assets/images/poster-4.jpg",
 	  posterUrl: "./assets/images/poster-4.jpg",
-	  title: "How do you do",
+	  title: "Sad!",
 	  album: "None",
 	  year: 2022,
 	  artist: "None",
@@ -46,7 +46,7 @@ const musicData = [
 	{
 	  backgroundImage: "./assets/images/poster-5.jpg",
 	  posterUrl: "./assets/images/poster-5.jpg",
-	  title: "How do you do",
+	  title: "So Far Away",
 	  album: "None",
 	  year: 2022,
 	  artist: "None",
